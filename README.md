@@ -61,7 +61,6 @@ I also share refined frontend components on **GitHub** and **CodePen**, aimed at
 - 📧 [firas.boukhriss3@gmail.com](mailto:firas.boukhriss3@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/firasboukhriss/)  
 - 💼 [Freelancer](https://freelancer.com/u/Shrodinger0)  
-- 📄 [Resume](https://github.com/Schrodinger0)
 
 ---
 
